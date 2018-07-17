@@ -1,6 +1,8 @@
 # learn-docker
 have a taste of docker
 
+doc link:
+https://docs.docker.com/engine/reference/commandline/run/
 
 map the port between local and docker container
 docker run -it -p 8002:8001 d0ce8a6088a3 node server.js
